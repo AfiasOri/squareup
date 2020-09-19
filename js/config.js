@@ -55,11 +55,11 @@ class Config {
 
 	getSearchEngines() {
 		const searchEngines = {
-			startpage: {
-				name: 'Startpage',
-				prefix: 'https://www.startpage.com/do/dsearch?query=',
-				icon: 'startpage',
-			},
+			// startpage: {
+			// 	name: 'Startpage',
+			// 	prefix: 'https://www.startpage.com/do/dsearch?query=',
+			// 	icon: 'startpage',
+			// },
 
 			google: {
 				name: 'Google',
